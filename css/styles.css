@@ -1,0 +1,10 @@
+body {
+  padding: 1%;
+}
+
+hr {
+	color:#808080;
+	background:#808080;
+	height:2px;
+	border:none
+}
